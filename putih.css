@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+}
+.box-vertikal{
+    padding-top: 150px;
+    float:center;
+    margin-top: -150px;
+    margin-bottom: -800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.strip-vertikal{
+    background-color: #ec9700;
+}
+.text-vertikal{
+    text-align: left;
+    transform: rotate(90deg);
+    text-transform: uppercase;
+    font-size:12px; 
+
+}
+.gambar{
+    padding-top: 250px;
+    padding-left: 500px;
+    
+}
