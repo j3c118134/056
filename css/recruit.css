@@ -1,0 +1,27 @@
+.recruit-title{
+    top: 50px;
+    font-family: Oswald;
+    font-size: 3em;
+    text-transform: uppercase;
+    right: 0px;
+ }
+.subjuduldua{
+    margin-left: 200px;
+    font-style: bold;
+    font-weight: 800;
+}
+.recruitbg{
+    width: 100%;
+    margin-top: -50px;
+    background-repeat: no-repeat;
+    height: 450px;
+    background-image: url('../gambar/bg-recruit.png');
+    
+}
+.reco{
+    margin-top: 200px;
+    width: 30%;
+    height: 50px;
+}
+
+

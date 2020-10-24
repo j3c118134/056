@@ -1,0 +1,50 @@
+.belakang {
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+    min-width: 400px;
+    max-width: 1602px;
+    background-image: url('../gambar/1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto; 
+
+}
+.dalam {
+    width: 100%;
+    max-width: 1700px;
+    height: 500px;
+    margin-top: 70px;
+    padding-top: 500px; 
+    background-image: url('../gambar/8.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+.yellowbutton{
+    border-radius: 30px;
+    font-size: 14pt;
+    color: white;
+}
+.section{
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.tscrol{
+    margin-top: 100px;
+    margin-left: 600px;
+    margin-right: 500px;  
+
+}
+.container{
+    z-index: 1;
+    position: relative;
+}
+
+
+
+
+
